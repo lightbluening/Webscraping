@@ -16,9 +16,11 @@ Data Cleaning: Extracted data may contain noise, irrelevant information, or inco
 Storage: The scraped data can be stored in various formats, such as CSV, JSON, databases, or other structured formats.
 
 
-![web scraping uses](https://github.com/lightbluening/Webscraping/assets/93415125/4da581b6-3881-43a2-b364-64ee2cd77f5c)
+
+
+                  ![web scraping uses](https://github.com/lightbluening/Webscraping/assets/93415125/4da581b6-3881-43a2-b364-64ee2cd77f5c)
 
 
 
 # About the project
-n this project, we employ the technique of web scraping to gather data from an online store specializing in laptops. Through a comprehensive analysis of factors including pricing, specifications, and review counts, we are empowered to identify the laptop that best suits our needs.
+In this project, we employ the technique of web scraping to gather data from an online store specializing in laptops. Through a comprehensive analysis of factors including pricing, specifications, and review counts, we are empowered to identify the laptop that best suits our needs.
