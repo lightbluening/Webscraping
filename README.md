@@ -12,6 +12,8 @@ Parsing HTML: Once you have the HTML content, you use a parser (often libraries 
 Data Extraction: You identify and extract the relevant data elements by navigating through the HTML structure using tags, attributes, and classes. This step involves understanding the structure of the web page's HTML code.
 
 Data Cleaning: Extracted data may contain noise, irrelevant information, or inconsistent formatting. Data cleaning involves processing and formatting the extracted data to make it usable for analysis.
+![web scraping uses](https://github.com/lightbluening/Webscraping/assets/93415125/4da581b6-3881-43a2-b364-64ee2cd77f5c)
+
 
 Storage: The scraped data can be stored in various formats, such as CSV, JSON, databases, or other structured formats.
 # About the project
