@@ -16,9 +16,10 @@ Data Cleaning: Extracted data may contain noise, irrelevant information, or inco
 Storage: The scraped data can be stored in various formats, such as CSV, JSON, databases, or other structured formats.
 
 
+![image](https://github.com/lightbluening/Webscraping/assets/93415125/2069197a-c661-4d86-b01d-09d347506233)
 
 
-                  ![web scraping uses](https://github.com/lightbluening/Webscraping/assets/93415125/4da581b6-3881-43a2-b364-64ee2cd77f5c)
+                 
 
 
 
