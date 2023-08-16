@@ -23,4 +23,4 @@ Storage: The scraped data can be stored in various formats, such as CSV, JSON, d
 
 
 # About the project
-In this project, we employ the technique of web scraping to gather data from an online store specializing in laptops. Through a comprehensive analysis of factors including pricing, specifications, and review counts, we are empowered to identify the laptop that best suits our needs.
+   In this project, we employ the technique of web scraping to gather data from an online store specializing in laptops. Through a comprehensive analysis of factors including pricing, specifications, and review counts, we are empowered to identify the laptop that best suits our needs.
